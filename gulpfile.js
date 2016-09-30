@@ -216,5 +216,12 @@ gulp.task('help',function () {
 });
 
 
+gulp.task('start',function(){
+
+
+    console.log("start project")
+
+})
+
 
 // -------测试git
